@@ -1,0 +1,14 @@
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\bin\Debug\net8.0\ProyectoFinalLenguajes.exe
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\bin\Debug\net8.0\ProyectoFinalLenguajes.deps.json
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\bin\Debug\net8.0\ProyectoFinalLenguajes.runtimeconfig.json
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\bin\Debug\net8.0\ProyectoFinalLenguajes.dll
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\bin\Debug\net8.0\ProyectoFinalLenguajes.pdb
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\obj\Debug\net8.0\ProyectoFinalLenguajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\obj\Debug\net8.0\ProyectoFinalLenguajes.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\obj\Debug\net8.0\ProyectoFinalLenguajes.AssemblyInfo.cs
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\obj\Debug\net8.0\ProyectoFinalLenguajes.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\obj\Debug\net8.0\ProyectoFinalLenguajes.dll
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\obj\Debug\net8.0\refint\ProyectoFinalLenguajes.dll
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\obj\Debug\net8.0\ProyectoFinalLenguajes.pdb
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\obj\Debug\net8.0\ProyectoFinalLenguajes.genruntimeconfig.cache
+C:\Users\Chris\source\repos\ProyectoFinalLenguajes\ProyectoFinalLenguajes\obj\Debug\net8.0\ref\ProyectoFinalLenguajes.dll
